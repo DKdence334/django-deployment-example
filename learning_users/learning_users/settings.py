@@ -27,7 +27,7 @@ SECRET_KEY = '&3as)59h6s!uuv#@m%#1-2%cdfja1#tb@ji(4_09o^w9b9fic7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["dkdence.pythonanywhere.com/"]
+ALLOWED_HOSTS = ["dkdence.pythonanywhere.com"]
 
 
 # Application definition
